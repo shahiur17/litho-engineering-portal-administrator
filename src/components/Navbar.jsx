@@ -32,7 +32,11 @@ const Navbar = () => {
 
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 ml-2">
-          <img src="/logo.png" alt="Logo" className="w-10" />
+          <img
+            src="https://i.postimg.cc/kMZcrYKm/lte-logo.jpg"
+            alt="Logo"
+            className="w-10"
+          />
           <span className="text-xl font-bold hidden sm:block">
             Litho Engineering
           </span>
