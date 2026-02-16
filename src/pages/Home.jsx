@@ -1,10 +1,11 @@
-
- import Banner from "../components/Banner";
+import Banner from "../components/Banner";
+import Carousel from "../components/Carousel";
 
 const Home = () => {
   return (
     <div>
-      <Banner />
+      <Carousel></Carousel>
+      <Banner></Banner>
     </div>
   );
 };
