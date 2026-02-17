@@ -16,7 +16,7 @@ const data = [
 
 const PerformanceChart = () => {
   return (
-    <div className="py-20 bg-white">
+    <div className="py-15 bg-white">
       <div className="text-center mb-12">
         <h2 className="text-4xl font-bold text-gray-800">
           📈 Project Completion Chart
